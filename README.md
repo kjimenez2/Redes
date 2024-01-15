@@ -14,8 +14,7 @@ El protocolo de Internet es el corazón de cualquier red, permitiendo la comunic
 | Fila 2    | Fila 2    | Fila 2    |
 
 ---
----
----
+
 ```bash
 ls -lah
 cd directorio
