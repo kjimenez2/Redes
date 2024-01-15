@@ -16,3 +16,7 @@
 ---
 ---
 ---
+```bash
+ls -lah
+cd directorio
+```
