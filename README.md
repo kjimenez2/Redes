@@ -18,5 +18,5 @@
 ---
 ```bash
 ls -lah
-cd redes
+cd directorio
 ```
